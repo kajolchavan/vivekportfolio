@@ -17,6 +17,7 @@ const Projects = () => {
             </div>
           </div>
         </div>
+        <a href="https://www.behance.net/gallery/197854071/UNION-LIVING" target="_blank" rel="noreferrer" >
         <div className="row align-items-center pb-25">
           <div className="col-lg-6">
             <div className="project-image wow fadeInLeft delay-0-2s">
@@ -43,6 +44,8 @@ appealing interface (100%)
             </div>
           </div>
         </div>
+        </a>
+        <a href="https://www.behance.net/gallery/185133211/REON-CAPITALS" target="_blank" rel="noreferrer" >
         <div className="row align-items-center pb-25">
           <div className="col-lg-6 order-lg-2">
             <div className="project-image wow fadeInLeft delay-0-2s">
@@ -66,6 +69,8 @@ timeframe
             </div>
           </div>
         </div>
+        </a>
+        <a href="https://www.behance.net/gallery/181825557/Zinzraa" target="_blank" rel="noreferrer" >
         <div className="row align-items-center pb-25">
           <div className="col-lg-6">
             <div className="project-image wow fadeInLeft delay-0-2s">
@@ -87,6 +92,8 @@ timeframe
             </div>
           </div>
         </div>
+        </a>
+        <a href="https://www.behance.net/gallery/180020371/Asynk" target="_blank" rel="noreferrer" >
         <div className="row align-items-center pb-25">
           <div className="col-lg-6 order-lg-2">
             <div className="project-image wow fadeInLeft delay-0-2s">
@@ -110,6 +117,7 @@ timeframe
             </div>
           </div>
         </div>
+        </a>
      
        
       </div>
