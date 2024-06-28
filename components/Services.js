@@ -5,32 +5,32 @@ const Services = ({ extraClass }) => {
     {
       id: 1,
       title: "UI Designing",
-      text: "Dignissimos ducimus blanditiis praesen",
+      text: "Crafting visually stunning interfaces that captivate and engage users, ensuring a seamless and intuitive experience.",
     },
     {
       id: 2,
       title: "UX Designing",
-      text: "Dignissimos ducimus blanditiis praesen",
+      text: "Designing user experiences that are intuitive and delightful, prioritizing user needs and enhancing usability.",
     },
     {
       id: 3,
-      title: "Front End Development",
-      text: "Dignissimos ducimus blanditiis praesen",
+      title: "Framer",
+      text: "Leveraging Framer to create interactive and dynamic prototypes, offering a realistic preview of your product's functionality.",
     },
     {
       id: 4,
       title: "Wireframing",
-      text: "Dignissimos ducimus blanditiis praesen",
+      text: "Creating detailed wireframes to map out the structure and flow of your website or app, laying the foundation for an effective design.",
     },
     {
       id: 5,
       title: "Prototyping",
-      text: "Dignissimos ducimus blanditiis praesen",
+      text: "Developing high-fidelity prototypes to test and refine your concepts, ensuring they meet user expectations and business goals",
     },
     {
       id: 6,
       title: "Figma",
-      text: "Dignissimos ducimus blanditiis praesen",
+      text: "Utilizing Figma for collaborative and efficient design processes, bringing your ideas to life with precision and creativity.",
     },
   
   ];
